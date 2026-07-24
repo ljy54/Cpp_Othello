@@ -1,0 +1,10 @@
+# 构建产物
+x64/
+*.tmp
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+.vs/
+*.user
